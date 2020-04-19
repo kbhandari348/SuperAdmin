@@ -1,0 +1,2 @@
+rootProject.name='SuperAdmin'
+include ':app'
